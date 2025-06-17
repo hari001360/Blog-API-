@@ -13,7 +13,7 @@ This is a simple Django project with:
 ✅ View posts and comments in browser  
 ✅ Full CRUD API for posts and comments  
 ✅ Styled using Bootstrap CDN  
-✅ Testable with Django `tests.py`
+`
 
 ---
 
